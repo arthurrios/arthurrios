@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Rios</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React.JS, Typescript**
+- 🌱 I’m currently learning **React.JS, React Native, Typescript**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arthur-rios-3878761b4/](https://www.linkedin.com/in/arthur-rios-3878761b4/)
 
