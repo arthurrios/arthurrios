@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.JS, React Native, Typescript**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arthur-rios-3878761b4/](https://www.linkedin.com/in/arthur-rios-3878761b4/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/arthur-rios](https://www.linkedin.com/in/arthur-rios)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
