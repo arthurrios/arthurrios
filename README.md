@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Rios</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 Specialized in **React.JS, React Native, Node.JS Typescript**
+- 🌱 Specialized in **React.JS, React Native, Node.JS, Typescript**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arthur-rios](https://www.linkedin.com/in/arthur-rios)
 
